@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summary narration of the signal victory which it pleased Almighty God to bestow upon His Majesties navy, under the command of His Royal Highness the Dvke of York, against the fleet of the states of the United Neatherlands, on the 3d of June, 1665</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61975</idno><idno type="EEBO-CITATION">11944922</idno>
+  <idno type="VID">51304</idno>
+  <idno type="EEBO-PROQUEST">2240891133</idno>
+  
+            <idno type="STC">Wing S6172</idno>
+            <idno type="STC">ESTC R623</idno>
+            <idno type="OCLC">11944922</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A61975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51304)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summary narration of the signal victory which it pleased Almighty God to bestow upon His Majesties navy, under the command of His Royal Highness the Dvke of York, against the fleet of the states of the United Neatherlands, on the 3d of June, 1665</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Hodgkinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51304:1"/>
+            <p>A Summary NARRATION OF THE Signal Victory Which it pleased Almighty God to bestow upon His MAJESTIES NAVY, under the Command of his Royal Highness the <hi>DƲKE</hi> of <hi>YORK,</hi> Against the Fleet of the States of the <hi>Ʋnited Neatherlands,</hi> on the 3d of <hi>June,</hi> 1665.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Richard Hodgkinson,</hi> living in <hi>Thames</hi>-Street over against <hi>Baynards Castle,</hi> 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:51304:2"/>
+            <pb n="1" facs="tcp:51304:2"/>
+            <head>A Summary Narration OF THE Signal Victory which it pleased Al<g ref="char:EOLhyphen"/>mighty God to bestow upon his Ma<g ref="char:EOLhyphen"/>jesties Navy, under the Command of his Royall Highness the Duke of <hi>York,</hi> against the Fleet of the <hi>States</hi> of the <hi>Ʋnited Netherlands,</hi> the 3. of <hi>June</hi> 1665.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is for <hi>general satisfaction,</hi> and to pre<g ref="char:EOLhyphen"/>vent <hi>Misreports</hi> (which are cōmonly through ignorance or malice be<g ref="char:EOLhyphen"/>gotten upon occasions of this na<g ref="char:EOLhyphen"/>ture) that this present <hi>Narrative</hi> is printed. And to the end that it may be rendred distinctly and intelligibly (the matter bearing it very well on our side,) it shal begin with the first appearance
+<pb n="2" facs="tcp:51304:3"/>of the <hi>Dutch Fleet,</hi> on our <hi>Coast;</hi> brought thither rather (in all probability) in expectation of finding Ours in disorder upon the preceding foul weather, and drawn by the reports of our unreadiness, then from their own innate va<g ref="char:EOLhyphen"/>lour, though the report of the story shews they had sufficient of that to accompany them in this great undertaking.</p>
+            <p>Upon their <hi>first appearance,</hi> which was on <hi>June</hi> 2d. at 2 of the clock, it cost his <hi>Royall Highness</hi> but little time to make ready; his foregoing care, and the chearfulness of our men, having pre<g ref="char:EOLhyphen"/>vented all hazzard of disorder; And the happy arrival of the <hi>Colliers Fleet</hi> at that instant, having supplyed the onely want we had, of Men: Which the <hi>Dutch</hi> Fleet no sooner perceived, but they stood off to sea again, keeping the wind of us, sometimes standing again, to see whether indeed We durst follovv them, keeping them<g ref="char:EOLhyphen"/>selves in good order. Their number vvas then judged to be 10 <hi>Sail,</hi> and 10 <hi>Fire-ships.</hi> The first good Omen that shevved it self on Our side, vvas the firing a great Ship of theirs that Even<g ref="char:EOLhyphen"/>ing, then believed to be one of their Flag Ships, which vve since have learned vvas a great Fire-ship so disguised to do the more mischief.</p>
+            <p>
+               <hi>June</hi> 2. We follovved them till night; and
+<pb n="3" facs="tcp:51304:3"/>endeavoured by several <hi>Tacks</hi> to get the Wind<g ref="char:EOLhyphen"/>vvard quarter, vvhich his <hi>Royall Highness</hi> happi<g ref="char:EOLhyphen"/>ly effected, being not full tvvo leagues further into the sea then vve vvere the Evening before: vvhich being gained, they bore up tovvards us, and gave the first <hi>Broad side</hi> at <hi>Sunrising Saturday</hi> 3. But finding they could not get from us, they bore up to <hi>Vice Admiral Minnes,</hi> and gave him a <hi>broadside,</hi> who received them accordingly; and so their whole <hi>Fleet</hi> passed by <hi>Ours,</hi> string at every ship as they went, and receiving re<g ref="char:EOLhyphen"/>turnes from them; not one of either side be<g ref="char:EOLhyphen"/>ing out of play at this first encounter. Imme<g ref="char:EOLhyphen"/>diately upon which, his <hi>Royall Highness</hi> made his signe for the <hi>tacking,</hi> that we might still keep the wind of them, which was happily executed, notwithstanding that the <hi>enemy</hi> also strove for it. In the <hi>second pass,</hi> the <hi>Swiftsure</hi> bore the <hi>first brunt,</hi> which was performed on both sides as the former. In the <hi>third</hi> (wherein we also kept the wind) <hi>Prince Rupert,</hi> and <hi>Cap<g ref="char:EOLhyphen"/>tain Minnes</hi> led the way but the Enemy, endea<g ref="char:EOLhyphen"/>vouring to get the head of our whole Fleet, we engaged in a line, and as we bore towards them, they still bore off, yet steering the same Course, so that it was not then a fight of <hi>board and board,</hi> But offending one another with great shot, we being at too great a distance to
+<pb n="4" facs="tcp:51304:4"/>make use of our small; which way of fighting seeming tedious to us, about one of the Clock we passed so near about the middle of them, that we devided their Fleet. About three of the <hi>Clock Opdams</hi> Ship was blown up; as we suppose by a lucky shot in the <hi>powder-room,</hi> which amazed <hi>Their</hi> whole Fleet, as it encou<g ref="char:EOLhyphen"/>raged <hi>Ours,</hi> so we fell in <hi>Pell-mell,</hi> with them. After vvhich, it will be hard, till stories are well composed, to give a particular account of vvhat hapned: Upon the vvhole matter, God hath been pleased to give his Majestie <hi>a great</hi> and <hi>signal Victory,</hi> the <hi>enemy</hi> being driven into the <hi>Texell</hi> as far as the draught of vvater and the condition of our ships vvould permit; the day being also very far spent: the summe of all is, the enemies vvhole Fleet is defeated; the greatest part of them gone into the <hi>Texel,</hi> o<g ref="char:EOLhyphen"/>thers into the <hi>Maes;</hi> about 30 of them <hi>burnt</hi> or <hi>taken. Opdam</hi> vvith his <hi>ship, blown up; Tromp</hi> and <hi>Cortenaer, Skram</hi> and <hi>Stellingwersse,</hi> all their 7 <hi>Admirals</hi> but <hi>John Evertson</hi> killed; vvith ma<g ref="char:EOLhyphen"/>ny more of their principal Officers, and accord<g ref="char:EOLhyphen"/>ing to their general computation neare 8000. <hi>seamen</hi> and <hi>souldiers;</hi> on <hi>our side</hi> only one single ship, (the <hi>Charity</hi>) lost, Sir <hi>John Lawson</hi> received a slight hurt in his knee, the Lord of <hi>Marle<g ref="char:EOLhyphen"/>borough;</hi> The Lord of <hi>Portland;</hi> Captain <hi>Athel<g ref="char:EOLhyphen"/>ton</hi>
+               <pb n="5" facs="tcp:51304:4"/>of the <hi>Guiny,</hi> Captain <hi>Kirby</hi> of the <hi>Breda,</hi> and <hi>Rear Admiral Sanson,</hi> vvere slain; Also the Lord of <hi>Falmouth,</hi> the Lord of <hi>Muskery</hi> and Mr. <hi>Boyle</hi> which three last vvere killed by one unhap<g ref="char:EOLhyphen"/>py shot on board his <hi>Royal Highness,</hi> and close to his ovvn person: God of Heaven be prais<g ref="char:EOLhyphen"/>ed for having preserved him to be the great In<g ref="char:EOLhyphen"/>strument of so signal a success, to the honour of His Majesty; and the good of his peo<g ref="char:EOLhyphen"/>ple.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>June</hi> 8. 1665.</date>
+               </dateline>
+               <signed>ROGER L'ESTRANGE.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
